@@ -1,0 +1,18 @@
+{
+  "name": "datacalc",
+  "version": "0.0.1",
+  "description": "DataCalc Compiler",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "complex-js": "^7.1.1",
+    "csv-parser": "^3.0.0",
+    "math": "^0.0.3",
+    "mathjs": "^11.9.1",
+    "readline-sync": "^1.4.10"
+  }
+}
