@@ -129,9 +129,4 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-
-<<<<<<< HEAD
 .vscode
-=======
-.vscode
->>>>>>> 09892060dd8334705763f1b33d9b5b08acfc6e1d
